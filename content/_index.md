@@ -7,9 +7,9 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Prairie Pathways
+      title: Crop and Community
       text: |
-          Exploring agricultural pasts to inform rural futures and celebrating the stories of local people and rural communities
+          Exploring agricultural pasts to inform rural futures 
       cta:
         url: ./participate/
         label: Share your story
@@ -135,19 +135,6 @@ sections:
         padding: ['90px', '0', '90px', '0']
       css_class: fullscreen
 
-  - block: collection
-    content:
-      title: Latest news
-      subtitle: ''
-      text: ''
-      count: 3
-      filters:
-        folders:
-          - post
-      order: desc
-    design:
-      view: card
-      columns: '2'
 
   - block: markdown
     content:
