@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: Crop and Community
 date: 2026-09-18
 type: landing
 
