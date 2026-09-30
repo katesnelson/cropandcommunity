@@ -6,12 +6,13 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Take part in Prairie Pathways
-      subtitle: 'Your memories and knowledge are part of this heritage'
+      title: Take part in Crop and Community
+      subtitle: 'Your memories and knowledge are part of this historry'
       text: |
         Much of what we hope to understand about agricultural and community change lives in the
-        memories of the people who experienced it. If you have deep roots in a rural Kansas community,
-        we would be grateful for the chance to talk with you — and to help preserve your story.
+        memories of the people who experienced it. Whether your family has farmed in the area for
+        generations or you have watched a rural Kansas community change over the years, we would be
+        grateful for the chance to talk with you and to help preserve your story.
     design:
       columns: '1'
 
@@ -32,8 +33,8 @@ sections:
           <div class="col-md-6">
             <ul>
               <li><strong>Elders</strong> with knowledge of earlier ways of farming and community life</li>
-              <li><strong>Extension, conservation district, and USDA staff</strong>current or retired, who have supported and worked alongside local producers</li>
-              <li><strong>Anyone</strong> who cares about the agricultural heritage of their community</li>
+              <li><strong>Extension agents and conservation staff</strong>current or retired, who have supported and worked alongside local producers</li>
+              <li><strong>Anyone</strong> who has watched farming and community life change in their area</li>
             </ul>
           </div>
         </div>
