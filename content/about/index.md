@@ -6,16 +6,15 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: About Prairie Pathways
-      subtitle: 'Exploring agricultural pasts to inform rural futures'
+      title: About Crop and Community
+      subtitle: 'Agricultural Systems and Rural Well-Being'
       text: |
         The fields, farms, and towns of rural Kansas look very different today than they did a
         century ago. Some communities came to grow a wide range of crops; others came to specialize
         in just a few. Farms grew larger or fewer, main streets thinned or held on, and the everyday
         practices of working the land shifted with each generation.
 
-        **Agricultural Systems and Rural Community Well-Being** is a community-centered research
-        project working to understand *why* those changes happened and *how* the people who lived
+        **Crop and Community** is a community-centered research project working to understand *why* those changes happened and *how* the people who lived
         through them make sense of them. We study the social, cultural, economic, ecological, and
         policy processes that have shaped farm types, crop diversity, and community life.
 
@@ -75,12 +74,12 @@ sections:
       text: |
         Our approach is built on conversation and careful documentation:
 
-        - **Oral history interviews.** We conduct semi-structured interviews with agricultural
+        - **Oral histories.** We conduct semi-structured interviews with agricultural
           producers, community leaders, local historians, elders, and extension, conservation
           district, and USDA staff who understand the history of change in their regions.
        - **Timeline interviews.** Together with participants, we map out key decisions and turning
           points, on the farm and in the community, to trace how and why practices changed over time.
-      -  **Semi-structured interviews.** We talk with producers, community leaders, and extension,
+      -  **Semi-structured conversations.** We talk with producers, community leaders, and extension,
           conservation district, and USDA staff about farming and rural life today.
         - **Archival and historical research.** We draw on county museum records, historical society
           collections, agricultural reports, and other archival materials to place personal accounts
