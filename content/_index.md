@@ -95,21 +95,21 @@ sections:
       spacing:
         padding: ['0', '0', '20px', '0']
 
-  - block: collection
-    content:
-      title: Featured stories
-      subtitle: ''
-      text: 'A few of the histories and maps we are gathering. New material is added as the project grows.'
-      count: 3
-      filters:
-        folders:
-          - oral-histories
-          - storymaps
-        exclude_featured: false
-      order: desc
-    design:
-      view: card
-      columns: '2'
+#  - block: collection
+#    content:
+#      title: Featured stories
+#      subtitle: ''
+#      text: 'A few of the histories and maps we are gathering. New material is added as the project grows.'
+#      count: 3
+#      filters:
+#        folders:
+#          - oral-histories
+#          - storymaps
+#        exclude_featured: false
+#      order: desc
+#    design:
+#      view: card
+#      columns: '2'
 
   - block: markdown
     content:
