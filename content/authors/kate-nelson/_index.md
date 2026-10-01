@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-    - course: Principal Investigator, Prairie Pathways
+    - course: Principal Investigator, Crops and Communities
       institution: University of Missouri
       year: ''
 
@@ -36,7 +36,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:prairiepathways@missouri.edu'
+    link: 'mailto:katherinenelson@missouri.edu'
   - icon: globe
     icon_pack: fas
     link: 'https://scales-mu.netlify.app/'
@@ -54,7 +54,7 @@ user_groups:
   - Principal Investigators
 ---
 
-Kate Nelson leads Prairie Pathways from the University of Missouri. Her research examines how agricultural
+Kate Nelson leads Crops and Communities from the University of Missouri. Her research examines how agricultural
 landscapes and rural communities change over time — and what those changes mean for community
 resilience and well-being across the Great Plains. She combines historical records, geospatial data,
 and community-based fieldwork to understand the socioecological processes behind agricultural change.
