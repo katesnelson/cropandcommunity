@@ -1,5 +1,5 @@
 ---
-title: Research Team Member
+title: Chunyun Tang
 first_name: Chunyun
 last_name: Tang
 superuser: false
