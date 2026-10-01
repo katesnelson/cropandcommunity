@@ -6,12 +6,12 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Take part in Crop and Community
+      title: Take part in Crops and Communities
       subtitle: 'Your memories and knowledge are part of this historry'
       text: |
         Much of what we hope to understand about agricultural and community change lives in the
         memories of the people who experienced it. Whether your family has farmed in the area for
-        generations or you have watched a rural Kansas community change over the years, we would be
+        generations or you have watched a rural Kansas community or landscape change over the years, we would be
         grateful for the chance to talk with you and to help preserve your story.
     design:
       columns: '1'
@@ -73,7 +73,7 @@ sections:
         read every message and will follow up personally.
 
         <p class="mt-4">
-          <a class="btn btn-primary btn-lg mr-2 mb-2" href="mailto:prairiepathways@ksu.edu?subject=Prairie%20Pathways%20%E2%80%94%20I%27d%20like%20to%20take%20part"><i class="fas fa-envelope pr-1"></i> Email the project team</a>
+          <a class="btn btn-primary btn-lg mr-2 mb-2" href="mailto:cropscommunities@missouri.edu?subject=Crops%20and%20Communities%20%E2%80%94%20I%27d%20like%20to%20take%20part"><i class="fas fa-envelope pr-1"></i> Email the project team</a>
           <a class="btn btn-outline-primary btn-lg mb-2" href="#" target="_blank" rel="noopener"><i class="fas fa-pen-to-square pr-1"></i> Express interest (form coming soon)</a>
         </p>
 
