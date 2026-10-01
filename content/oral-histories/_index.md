@@ -12,7 +12,7 @@ Oral histories are first-person accounts of agricultural and community change, r
 people who remember it — farmers and ranchers, community leaders, local historians, and elders. Each
 conversation helps preserve knowledge and experience that rarely makes it into the written record.
 
-The entries below are **illustrative samples** that show the format we use. As interviews are
+As interviews are
 completed and contributors give their permission, this page will grow into a living archive of
 stories, each paired with audio and a transcript. To protect participant privacy, stories are
 attributed to broad regions of Kansas rather than to specific counties or towns unless a contributor
