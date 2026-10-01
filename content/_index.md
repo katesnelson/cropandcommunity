@@ -1,13 +1,13 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Crop and Community
+title: Crops and Communities
 date: 2026-09-18
 type: landing
 
 sections:
   - block: hero
     content:
-      title: Crop and Community
+      title: Crops and Communities
       text: |
           Exploring agricultural pasts to inform rural futures 
       cta:
@@ -38,17 +38,17 @@ sections:
       title: Understanding how agriculture and rural life have changed
       subtitle: ''
       text: |
-        Across Kansas, the crops grown in the field and the shape of rural communities have changed
-        profoundly over the past century. **Prairie Pathways** is a community-centered research project
+        The crops grown in the field, and the shape of rural communities and working landscapes across America, have changed
+        profoundly over the past century. **Crops and Communities** is a community-centered research project
         working to understand *why* those changes happened and *how* the people who lived them
         make sense of them.
 
         We study the social, cultural, economic, ecological, and policy processes that have shaped
-        farm types, crop diversity, and community life. Our aim is not to argue for any one way of
+        farm types, crop diversity, community life, and local landscapes. Our aim is not to argue for any one way of
         farming, but to document these histories, learn from them, and return them to the communities
         they belong to.
 
-        Through **oral histories**, timeline interviews, and conversations with community members,
+        Through **oral histories**, timeline interviews, and conversations with community members in Kansas,
         we gather the knowledge, decisions, and lived experience of farmers, community leaders,
         local historians, elders, and the organizations that support them. We then build **story maps** that celebrate the
         agricultural history of rural Kansas and the people that support them.
