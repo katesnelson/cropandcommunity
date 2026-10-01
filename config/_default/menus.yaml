@@ -11,9 +11,6 @@ main:
   - name: Story Maps
     url: storymaps/
     weight: 30
-  - name: News
-    url: post/
-    weight: 40
   - name: Participate
     url: participate/
     weight: 50
