@@ -77,9 +77,9 @@ sections:
         - **Oral histories.** We conduct semi-structured interviews with agricultural
           producers, community leaders, local historians, elders, and extension, conservation
           district, and USDA staff who understand the history of change in their regions.
-       - **Timeline interviews.** Together with participants, we map out key decisions and turning
+        - **Timeline interviews.** Together with participants, we map out key decisions and turning
           points, on the farm and in the community, to trace how and why practices changed over time.
-      -  **Semi-structured conversations.** We talk with producers, community leaders, and extension,
+        - **Semi-structured conversations.** We talk with producers, community leaders, and extension,
           conservation district, and USDA staff about farming and rural life today.
         - **Archival and historical research.** We draw on county museum records, historical society
           collections, agricultural reports, and other archival materials to place personal accounts
