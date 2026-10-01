@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: About Crop and Community
+      title: About Crops and Communities
       subtitle: 'Agricultural Systems and Rural Well-Being'
       text: |
         The fields, farms, and towns of rural Kansas look very different today than they did a
@@ -14,7 +14,7 @@ sections:
         in just a few. Farms grew larger or fewer, main streets thinned or held on, and the everyday
         practices of working the land shifted with each generation.
 
-        **Crop and Community** is a community-centered research project working to understand *why* those changes happened and *how* the people who lived
+        **Crops and Communities** is a community-centered research project working to understand *why* those changes happened and *how* the people who lived
         through them make sense of them. We study the social, cultural, economic, ecological, and
         policy processes that have shaped farm types, crop diversity, and community life.
 
