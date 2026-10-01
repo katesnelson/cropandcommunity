@@ -1,5 +1,5 @@
 ---
-title: Research Team Member
+title: John Canfield, PhD
 first_name: John
 last_name: Canfield
 superuser: false
