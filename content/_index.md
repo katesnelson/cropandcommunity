@@ -38,13 +38,13 @@ sections:
       title: Understanding how agriculture and rural life have changed
       subtitle: ''
       text: |
-        The crops grown in the field, and the shape of rural communities and working landscapes across America, have changed
+        Across America, the crops grown in the field and the shape of rural communities have changed
         profoundly over the past century. **Crops and Communities** is a community-centered research project
         working to understand *why* those changes happened and *how* the people who lived them
         make sense of them.
 
         We study the social, cultural, economic, ecological, and policy processes that have shaped
-        farm types, crop diversity, community life, and local landscapes. Our aim is not to argue for any one way of
+        farm types, crop diversity, community life, and working landscapes. Our aim is not to argue for any one way of
         farming, but to document these histories, learn from them, and return them to the communities
         they belong to.
 
