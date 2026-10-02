@@ -1,6 +1,6 @@
-# Crop and Community
+# Crops and Communities
 
-A website for **Crop and Community**, a community-centered research project at University of Missouri
+A website for **Crops and Communities**, a community-centered research project at University of Missouri
 documenting the history of agricultural landscape change and celebrating the agricultural heritage of
 rural Kansas through **oral histories** and **story maps**.
 
