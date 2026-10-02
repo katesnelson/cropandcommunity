@@ -9,7 +9,7 @@ sections:
     content:
       title: Our team & partners
       text: |
-        Prairie Pathways is a collaboration between university researchers and the rural communities,
+        Crops and Communities is a collaboration between university researchers and the rural communities,
         historical societies, and agency partners who make this work possible.
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
