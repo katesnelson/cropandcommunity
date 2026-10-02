@@ -13,9 +13,9 @@ sections:
       email: katherinenelson@missouri.edu
       address:
         street: ''
-        city: Manhattan
-        region: KS
-        postcode: '66506'
+        city: Columbia
+        region: MO
+        postcode: '65203'
         country: United States
         country_code: US
       coordinates:
