@@ -7,7 +7,7 @@ sections:
   - block: markdown
     content:
       title: Take part in Crops and Communities
-      subtitle: 'Your memories and knowledge are part of this historry'
+      subtitle: 'Your memories and knowledge are part of this history'
       text: |
         Much of what we hope to understand about agricultural and community change lives in the
         memories of the people who experienced it. Whether your family has farmed in the area for
@@ -77,8 +77,7 @@ sections:
           <a class="btn btn-outline-primary btn-lg mb-2" href="#" target="_blank" rel="noopener"><i class="fas fa-pen-to-square pr-1"></i> Express interest (form coming soon)</a>
         </p>
 
-        <p class="text-muted mt-2"><small>Replace the email address and interest-form link with your
-        own before publishing — see the notes in <code>README.md</code>.</small></p>
+       
     design:
       columns: '1'
 ---
