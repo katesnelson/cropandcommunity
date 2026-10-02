@@ -16,8 +16,8 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: 'Prairie Pathways'
-    description: 'Prairie Pathways documents the history of agricultural landscape change and celebrates the agricultural heritage of rural Kansas communities through oral histories and story maps.'
+    org_name: 'Crops and Communities'
+    description: 'Crops and Communities documents the history of agricultural landscape change and celebrates the agricultural heritage of rural Kansas communities through oral histories and story maps.'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -44,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Prairie Pathways · Universityof Missouri. This material is based upon work supported by the U.S. National Science Foundation. Any opinions, findings, and conclusions expressed are those of the project team and do not necessarily reflect the views of the NSF.'
+    notice: '© {year} Crops and Communities · Universityof Missouri. This material is based upon work supported by the U.S. National Science Foundation. Any opinions, findings, and conclusions expressed are those of the project team and do not necessarily reflect the views of the NSF.'
     license:
       enable: false
       allow_derivatives: false
