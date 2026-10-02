@@ -16,8 +16,9 @@ image:
 
 {{% callout note %}}
 This is an **illustrative sample** showing how a finished story map will be presented. The embedded
-map below is a placeholder. Replace the `src` in the iframe with your published story map — see
-`README.md` for details.
+map below is a placeholder. 
+#Replace the `src` in the iframe with your published story map — see
+#`README.md` for details.
 {{% /callout %}}
 
 Where the companion story map follows the numbers, *Harvest & Heritage* follows the people. This
@@ -28,7 +29,8 @@ knowledge passed down through families and neighbors.
 <div class="ratio ratio-16x9 my-4 shadow-sm rounded" style="overflow:hidden;">
   <iframe src="about:blank" title="Harvest and heritage — story map (placeholder)" allowfullscreen loading="lazy" style="border:0;background:#f3efe6;"></iframe>
 </div>
-<p class="text-muted"><small>Placeholder embed. Paste your published story map URL into the iframe
+<p class="text-muted"><small>Placeholder embed. 
+  #Paste your published story map URL into the iframe
 <code>src</code> above.</small></p>
 
 **What the finished map will include**
