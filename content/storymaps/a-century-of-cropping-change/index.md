@@ -16,8 +16,9 @@ image:
 
 {{% callout note %}}
 This is an **illustrative sample** showing how a finished story map will be presented. The embedded
-map below is a placeholder. Replace the `src` in the iframe with your published story map (for
-example, an Esri ArcGIS StoryMaps link) — see `README.md` for details.
+map below is a placeholder. 
+#Replace the `src` in the iframe with your published story map (for
+#example, an Esri ArcGIS StoryMaps link) — see `README.md` for details.
 {{% /callout %}}
 
 This story map traces how the mix of crops grown across our Kansas study regions has changed over the
@@ -28,7 +29,8 @@ more specialized, and how those shifts lined up with changes in farms, markets, 
 <div class="ratio ratio-16x9 my-4 shadow-sm rounded" style="overflow:hidden;">
   <iframe src="about:blank" title="A century of cropping change — story map (placeholder)" allowfullscreen loading="lazy" style="border:0;background:#f3efe6;"></iframe>
 </div>
-<p class="text-muted"><small>Placeholder embed. Paste your published story map URL into the iframe
+<p class="text-muted"><small>Placeholder embed. 
+  #Paste your published story map URL into the iframe
 <code>src</code> above.</small></p>
 
 **What the finished map will include**
