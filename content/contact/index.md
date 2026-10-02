@@ -19,9 +19,9 @@ sections:
         country: United States
         country_code: US
       coordinates:
-        latitude: '39.1897'
-        longitude: '-96.5847'
-      directions: 'Prairie Pathways · University of Missouri, Columbia, Missouri'
+        latitude: '38.9453'
+        longitude: '-92.3282'
+      directions: 'Crops and Communities · University of Missouri, Columbia, Missouri'
       # Contact form is disabled for static hosting (GitHub Pages). See README.md to enable
       # a Formspree or Netlify form.
       autolink: true
