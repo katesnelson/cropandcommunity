@@ -9,7 +9,7 @@ sections:
       title: About Crops and Communities
       subtitle: 'Agricultural Systems and Rural Well-Being'
       text: |
-        The fields, farms, and towns of rural Kansas look very different today than they did a
+        The fields, farms, and towns of rural America look very different today than they did a
         century ago. Some communities came to grow a wide range of crops; others came to specialize
         in just a few. Farms grew larger or fewer, main streets thinned or held on, and the everyday
         practices of working the land shifted with each generation.
@@ -113,7 +113,7 @@ sections:
         societies and museums, extension and conservation district staff, and community members across
         the study regions. We are grateful to everyone who shares their time, memories, and knowledge.
 
-        Prairie Pathways is led from the **University of Missouri** and is supported by the
+        Crop and Communities is led from the **University of Missouri** and is supported by the
         **U.S. National Science Foundation**. Any opinions, findings, and conclusions or
         recommendations expressed on this site are those of the project team and do not necessarily
         reflect the views of the National Science Foundation.
