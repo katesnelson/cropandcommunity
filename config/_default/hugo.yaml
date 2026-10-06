@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Crops and Communities # Website name
-baseURL: 'https://katesnelson.github.io/prairie-pathways/' # Change to your GitHub Pages URL or custom domain
+baseURL: 'https://katesnelson.github.io/cropandcommunity/' # Change to your GitHub Pages URL or custom domain
 
 ############################
 ## LANGUAGE
