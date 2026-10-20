@@ -8,9 +8,9 @@ main:
   - name: Oral Histories
     url: oral-histories/
     weight: 20
-  - name: Story Maps
-    url: storymaps/
-    weight: 30
+#  - name: Story Maps
+#    url: storymaps/
+#    weight: 30
   - name: Participate
     url: participate/
     weight: 50
