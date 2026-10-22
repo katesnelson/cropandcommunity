@@ -7,5 +7,5 @@ banner:
   image: 'contact.jpg'
 ---
 
-Updates from Prairie Pathways — new oral histories and story maps, visits to communities in the study
+Updates from Crops and Communities — new oral histories and story maps, visits to communities in the study
 regions, and news about the project as it grows.
