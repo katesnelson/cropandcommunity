@@ -16,7 +16,7 @@ sections:
       user_groups:
           - Principal Investigators
           - Research Team
-          - Community Partners
+ #         - Community Partners
       sort_by: Params.last_name
       sort_ascending: true
     design:
