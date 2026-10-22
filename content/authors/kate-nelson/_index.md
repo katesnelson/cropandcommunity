@@ -54,9 +54,8 @@ user_groups:
   - Principal Investigators
 ---
 
-Kate Nelson leads Crops and Communities from the University of Missouri. Her research examines how agricultural
-landscapes and rural communities change over time — and what those changes mean for community
-resilience and well-being across the Great Plains. She combines historical records, geospatial data,
+Kate Nelson leads Crops and Communities from the University of Missouri. Her research examines issues related to the sustainability of communities and agricultural landscapes (SCALEs). This includes examining how agricultural landscapes and rural communities change over time — and what those changes mean for community
+resilience and well-being across the U.S. She combines historical records, geospatial data,
 and community-based fieldwork to understand the socioecological processes behind agricultural change.
 
-*This profile is a starting point — please edit the bio, title, and links to your preference.*
+
