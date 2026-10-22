@@ -28,9 +28,15 @@ interests:
 
 education:
   courses:
-    - course: Principal Investigator, Crops and Communities
-      institution: University of Missouri
-      year: ''
+    - course: PhD
+      institution: Vanderbilt University
+      year: '2018'
+    - course: MS
+      institution: Washington University in St. Louis
+      year: '2009'
+    - course: BS
+      institution: University of Oklahoma
+      year: '2006'
 
 # Social/Academic Networking
 social:
