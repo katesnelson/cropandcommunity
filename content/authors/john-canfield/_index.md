@@ -28,5 +28,4 @@ user_groups:
   - Research Team
 ---
 
-*Placeholder profile.* Duplicate this folder for each member of the research team and replace the
-name, photo (`avatar.jpg`), role, and bio. Delete this placeholder before publishing.
+John Canfield is a Postdoctoral Fellow in the School of Natural Resources at the University of Missouri. A rural and environmental sociologist, he studies how agricultural communities navigate change and build new futures, with a focus on collaborative networks, land management, and community well-being. He holds a PhD in Sociology from the University of Wisconsin–Madison and an MS in Rural Sociology from Auburn University.
