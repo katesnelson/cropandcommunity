@@ -1,5 +1,5 @@
 ---
-title: "Prairie Pathways is underway"
+title: "Crops and Communities is underway"
 subtitle: "Introducing a community-centered study of agricultural change and heritage in rural Kansas"
 summary: "We are launching a project to understand how agricultural landscapes and rural communities have changed over the past century — and to preserve that heritage through oral histories and story maps."
 date: 2026-09-15
@@ -14,8 +14,7 @@ image:
   focal_point: 'Center'
 ---
 
-We are glad to introduce **Prairie Pathways**, a community-centered research project based at Kansas
-State University and supported by the U.S. National Science Foundation.
+We are glad to introduce **Crops and Communities**, a community-centered research project based at the University of Missouri and supported by the U.S. National Science Foundation.
 
 Over the past century, the crops grown across Kansas and the communities that farm them have changed a
 great deal. Our project works to understand the socioecological processes behind that change — and to
