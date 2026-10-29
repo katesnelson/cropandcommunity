@@ -29,6 +29,9 @@
 
   <div class="col-md-7">
     {{ partial "site_footer_license" . }}
+    <a href="https://www.nsf.gov" target="_blank" rel="noopener" class="d-inline-block mt-2">
+      <img src="{{ "media/nsf-logo.png" | relURL }}" alt="U.S. National Science Foundation" class="footer-nsf-logo">
+    </a>
   </div>
 
 </div>
@@ -36,4 +39,12 @@
 <style>
   .site-footer-columns,
   .site-footer-columns p { text-align: left; }
+  .site-footer-columns address {
+    font-size: 0.75rem;
+    line-height: 1.5;
+  }
+  .footer-nsf-logo {
+    height: 60px;
+    width: auto;
+  }
 </style>
