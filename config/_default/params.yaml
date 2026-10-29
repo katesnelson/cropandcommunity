@@ -43,9 +43,9 @@ header:
 # Site footer
 
 footer:
-  copyright: '© Copyright {year} by The Curators of the University of Missouri' 
-  notice: 'MU is an equal opportunity employer · DMCA and other copyright information · Privacy Policy · Accessibility ·  This material is based upon work supported by the U.S. National Science Foundation. Any opinions, findings, and conclusions expressed are those of the project team and do not necessarily reflect the views of the NSF.'
-  license:
+  copyright: 
+    notice: '© Copyright {year} by The Curators of the University of Missouri · MU is an equal opportunity employer · DMCA and other copyright information · Privacy Policy · Accessibility ·  This material is based upon work supported by the U.S. National Science Foundation. Any opinions, findings, and conclusions expressed are those of the project team and do not necessarily reflect the views of the NSF.'
+    license:
     enable: false
     allow_derivatives: false
     share_alike: true
