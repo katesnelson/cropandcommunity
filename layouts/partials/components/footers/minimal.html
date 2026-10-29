@@ -29,9 +29,11 @@
 
   <div class="col-md-7">
     {{ partial "site_footer_license" . }}
-    <a href="https://www.nsf.gov" target="_blank" rel="noopener" class="d-inline-block mt-2">
-      <img src="{{ "media/nsf-logo.png" | relURL }}" alt="U.S. National Science Foundation" class="footer-nsf-logo">
-    </a>
+    <div class="footer-nsf-logo-wrap mt-2">
+      <a href="https://www.nsf.gov" target="_blank" rel="noopener">
+        <img src="{{ "media/nsf-logo.png" | relURL }}" alt="U.S. National Science Foundation" class="footer-nsf-logo">
+      </a>
+    </div>
   </div>
 
 </div>
@@ -46,5 +48,10 @@
   .footer-nsf-logo {
     height: 60px;
     width: auto;
+  }
+  .footer-nsf-logo-wrap {
+    text-align: right;
+  }
+</style>
   }
 </style>
