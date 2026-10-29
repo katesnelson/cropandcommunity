@@ -1,0 +1,14 @@
+<style>
+  .navbar-brand {
+    display: inline-flex;
+    align-items: center;
+  }
+  .navbar-brand::before {
+    content: "";
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin-right: 0.6rem;
+    background: url("{{ "media/mizzou-logo.png" | relURL }}") no-repeat center / contain;
+  }
+</style>
