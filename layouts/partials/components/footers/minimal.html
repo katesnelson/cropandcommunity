@@ -1,0 +1,39 @@
+{{/* Custom two-column footer: contact info (left), copyright/legal (right).
+     Overrides the HugoBlox blox-bootstrap minimal footer. Delete this file to revert. */}}
+
+{{/* Footer nav links, if a footer menu is defined */}}
+{{ with site.Menus.footer }}
+<nav class="d-flex flex-wrap justify-content-center pb-3">
+  {{ range . }}
+  <a class="mx-3" href="{{ .URL | relLangURL }}"{{ if findRE `^http` .URL }} target="_blank" rel="noopener"{{ end }}>{{ .Name }}</a>
+  {{ end }}
+</nav>
+{{ end }}
+
+<div class="row site-footer-columns">
+
+  <div class="col-md-5 mb-3 mb-md-0">
+    {{ with site.Params.footer.contact }}
+    <address class="mb-0">
+      {{ if .unit_name }}
+      <strong>
+        {{ if .unit_url }}<a href="{{ .unit_url }}" target="_blank" rel="noopener">{{ .unit_name }}</a>{{ else }}{{ .unit_name }}{{ end }}
+      </strong><br>
+      {{ end }}
+      {{ with .address }}{{ . }}<br>{{ end }}
+      {{ with .email }}<a href="mailto:{{ . }}">{{ . }}</a><br>{{ end }}
+      {{ with .phone }}<a href="tel:{{ replaceRE `[^0-9+]` "" . }}">{{ . }}</a>{{ end }}
+    </address>
+    {{ end }}
+  </div>
+
+  <div class="col-md-7">
+    {{ partial "site_footer_license" . }}
+  </div>
+
+</div>
+
+<style>
+  .site-footer-columns,
+  .site-footer-columns p { text-align: left; }
+</style>
