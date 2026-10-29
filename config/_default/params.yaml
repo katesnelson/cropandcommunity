@@ -43,8 +43,8 @@ header:
 # Site footer
 
 footer:
-  copyright:
-    notice: '© {year} Crops and Communities · Universityof Missouri. This material is based upon work supported by the U.S. National Science Foundation. Any opinions, findings, and conclusions expressed are those of the project team and do not necessarily reflect the views of the NSF.'
+  copyright: '© Copyright {year} by The Curators of the University of Missouri' 
+    notice: 'Crops and Communities · University of Missouri. This material is based upon work supported by the U.S. National Science Foundation. Any opinions, findings, and conclusions expressed are those of the project team and do not necessarily reflect the views of the NSF.'
     license:
       enable: false
       allow_derivatives: false
