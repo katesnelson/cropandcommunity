@@ -71,15 +71,15 @@ sections:
               </div>
             </div>
           </div>
-          <div class="col-md-4 mb-4">
-            <div class="card h-100 shadow-sm border-0">
-              <div class="card-body">
-                <h3 class="card-title h4"><i class="fas fa-map-location-dot text-primary pr-2"></i> Story Maps</h3>
-                <p class="card-text">Interactive maps that trace how landscapes, livelihoods, and towns have shifted over time.</p>
-                <a class="stretched-link" href="./storymaps/">Explore the maps →</a>
-              </div>
-            </div>
-          </div>
+#          <div class="col-md-4 mb-4">
+#            <div class="card h-100 shadow-sm border-0">
+#              <div class="card-body">
+#                <h3 class="card-title h4"><i class="fas fa-map-location-dot text-primary pr-2"></i> Story Maps</h3>
+#                <p class="card-text">Interactive maps that trace how landscapes, livelihoods, and towns have shifted over time.</p>
+#                <a class="stretched-link" href="./storymaps/">Explore the maps →</a>
+#              </div>
+#            </div>
+#          </div>
           <div class="col-md-4 mb-4">
             <div class="card h-100 shadow-sm border-0">
               <div class="card-body">
