@@ -18,7 +18,7 @@ interests:
 
 education:
   courses:
-     - course: Masters in Land Resource Management
+    - course: Masters in Land Resource Management
       institution: South China University of Technology
       year: '2021'
     - course: Bachelor's in Land Resource Management
