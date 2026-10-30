@@ -18,7 +18,7 @@ organizations:
     url: 'https://cafnr.missouri.edu/directory/kate-nelson/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Researcher of rural sustainability, agricultural change, and community resilience in the Great Plains.
+bio: Researcher of rural sustainability, agricultural change, and community resilience across the U.S.
 
 interests:
   - Agricultural landscape change
