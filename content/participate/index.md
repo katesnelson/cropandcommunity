@@ -73,7 +73,7 @@ sections:
         read every message and will follow up personally.
 
         <p class="mt-4">
-          <a class="btn btn-primary btn-lg mr-2 mb-2" href="mailto:cropscommunities@missouri.edu?subject=Crops%20and%20Communities%20%E2%80%94%20I%27d%20like%20to%20take%20part"><i class="fas fa-envelope pr-1"></i> Email the project team</a>
+          <a class="btn btn-primary btn-lg mr-2 mb-2" href="mailto:katherinenelson@missouri.edu?subject=Crops%20and%20Communities%20%E2%80%94%20I%27d%20like%20to%20take%20part"><i class="fas fa-envelope pr-1"></i> Email the project team</a>
           <a class="btn btn-outline-primary btn-lg mb-2" href="#" target="_blank" rel="noopener"><i class="fas fa-pen-to-square pr-1"></i> Express interest (form coming soon)</a>
         </p>
 
