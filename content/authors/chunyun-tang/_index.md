@@ -12,9 +12,9 @@ organizations:
 bio: ''
 
 interests:
-  - Rural sociology
-  - Agrifood systems
-  - 
+  - Sustainable agriculture
+  - Rural development
+  - Quantitative analysis
 
 social:
   - icon: envelope
@@ -28,5 +28,4 @@ user_groups:
   - Research Team
 ---
 
-*Placeholder profile.* Duplicate this folder for each member of the research team and replace the
-name, photo (`avatar.jpg`), role, and bio. Delete this placeholder before publishing.
+
