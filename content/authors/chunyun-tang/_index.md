@@ -9,12 +9,21 @@ organizations:
   - name: University of Missouri
     url: 'https://missouri.edu/'
 
-bio: ''
+bio: 'PhD student and graduate research assistant of agricultural change.'
 
 interests:
   - Sustainable agriculture
   - Rural development
   - Quantitative analysis
+
+education:
+  courses:
+     - course: Masters in Land Resource Management
+      institution: South China University of Technology
+      year: '2021'
+    - course: Bachelor's in Land Resource Management
+      institution: Inner Mongolia University
+      year: '2018'
 
 social:
   - icon: envelope
