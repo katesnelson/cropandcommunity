@@ -91,10 +91,10 @@ sections:
         be used, and contributors decide how their words, names, and communities are represented. You
         can read more on the [Participate](../participate/) page.
 
-<br>
-<br>
-<br>
-<br>
+        <br>
+        <br>
+        <br>
+        <br>
 
     design:
       columns: '1'
