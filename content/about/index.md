@@ -3,6 +3,11 @@ title: About
 date: 2026-09-18
 type: landing
 
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: 'Exploring change across farms and towns of rural America.'
+  image: 'about.jpg'
+  
 sections:
   - block: markdown
     content:
