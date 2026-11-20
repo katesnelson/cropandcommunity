@@ -5,8 +5,8 @@
 # Appearance
 
 appearance:
-  theme_day: prairie
-  theme_night: prairie
+  theme_day: candc
+  theme_night: candc
   font: prairie
   font_size: L
 
