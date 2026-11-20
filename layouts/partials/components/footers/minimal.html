@@ -44,6 +44,14 @@
 </div>
 
 <style>
+  /* Underline links in page content and the footer for accessibility */
+  .page-body p a:not(.btn),
+  .page-body li a:not(.btn),
+  .article-style a:not(.btn),
+  .site-footer-columns a {
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+  }
   .site-footer-columns,
   .site-footer-columns p { text-align: left; }
   .site-footer-columns address {
