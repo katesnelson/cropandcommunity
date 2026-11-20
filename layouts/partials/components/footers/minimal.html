@@ -10,9 +10,19 @@
 </nav>
 {{ end }}
 
-<div class="row site-footer-columns">
+<div class="row site-footer-columns align-items-center">
 
-  <div class="col-md-5 mb-3 mb-md-0">
+  <!-- Column 1: Mizzou logo -->
+  <div class="col-md-2 mb-3 mb-md-0">
+    <div class="footer-mu-logo-wrap">
+      <a href="https://missouri.edu" target="_blank" rel="noopener">
+        <img src="{{ "media/mizzou-logo.png" | relURL }}" alt="University of Missouri" class="footer-mu-logo">
+      </a>
+    </div>
+  </div>
+
+  <!-- Column 2: Contact information -->
+  <div class="col-md-3 mb-3 mb-md-0">
     {{ with site.Params.footer.contact }}
     <address class="mb-0">
       {{ if .unit_name }}
@@ -25,16 +35,16 @@
       {{ with .phone }}<a href="tel:{{ replaceRE `[^0-9+]` "" . }}">{{ . }}</a>{{ end }}
     </address>
     {{ end }}
-       <div class="footer-mu-logo-wrap mt-2">
-      <a href="https://missouri.edu" target="_blank" rel="noopener">
-        <img src="{{ "media/mizzou-logo.png" | relURL }}" alt="University of Missouri" class="footer-mu-logo">
-      </a>
-    </div>
   </div>
 
-  <div class="col-md-7">
+  <!-- Column 3: Copyright and legal text -->
+  <div class="col-md-5 mb-3 mb-md-0">
     {{ partial "site_footer_license" . }}
-    <div class="footer-nsf-logo-wrap mt-2">
+  </div>
+
+  <!-- Column 4: NSF logo -->
+  <div class="col-md-2">
+    <div class="footer-nsf-logo-wrap">
       <a href="https://www.nsf.gov" target="_blank" rel="noopener">
         <img src="{{ "media/nsf-logo.png" | relURL }}" alt="U.S. National Science Foundation" class="footer-nsf-logo">
       </a>
