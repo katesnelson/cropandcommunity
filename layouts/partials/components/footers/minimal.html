@@ -25,6 +25,11 @@
       {{ with .phone }}<a href="tel:{{ replaceRE `[^0-9+]` "" . }}">{{ . }}</a>{{ end }}
     </address>
     {{ end }}
+       <div class="footer-mu-logo-wrap mt-2">
+      <a href="https://missouri.edu" target="_blank" rel="noopener">
+        <img src="{{ "media/mizzou-logo.png" | relURL }}" alt="University of Missouri" class="footer-mu-logo">
+      </a>
+    </div>
   </div>
 
   <div class="col-md-7">
@@ -45,13 +50,22 @@
     font-size: 0.75rem;
     line-height: 1.5;
   }
-  .footer-nsf-logo {
+    .footer-mu-logo {
+    height: 60px;
+    width: auto;
+  }
+    .footer-nsf-logo {
     height: 60px;
     width: auto;
   }
   .footer-nsf-logo-wrap {
     display: flex;
     justify-content: flex-end;
+  }
+/* No underline under the footer logos */
+  .footer-nsf-logo-wrap a,
+  .footer-mu-logo-wrap a {
+    text-decoration: none;
   }
   .navbar-brand {
     display: inline-flex;
