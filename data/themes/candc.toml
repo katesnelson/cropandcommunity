@@ -1,0 +1,41 @@
+# Mizzou-aligned theme
+# Black and Mizzou Gold primary palette, with the project's prairie green as an accent.
+name = "Mizzou"
+
+[light]
+  # Primary accent (buttons, highlights): project green
+  primary = "#3d4d2a"
+
+  # Navigation bar: Tiger Paw Black with white text and Mizzou Gold for the active page
+  menu_primary = "#000000"
+  menu_text = "#ffffff"
+  menu_text_active = "#FDB719"
+  menu_title = "#ffffff"
+
+  # Links: project green, darkening to black on hover
+  link = "#3d4d2a"
+  link_hover = "#000000"
+
+  # Backgrounds: white, alternating with Gold Tint 3
+  background = "#ffffff"
+  home_section_odd = "#FFEDCF"
+  home_section_even = "#ffffff"
+
+[dark]
+  # Primary accent: Mizzou Gold (approved on black)
+  primary = "#FDB719"
+
+  # Navigation bar
+  menu_primary = "#000000"
+  menu_text = "#ffffff"
+  menu_text_active = "#FDB719"
+  menu_title = "#ffffff"
+
+  # Links: Mizzou Gold, lightening to Gold Tint 1 on hover
+  link = "#FDB719"
+  link_hover = "#FFD17D"
+
+  # Backgrounds: black, alternating with Black Tint 1
+  background = "#000000"
+  home_section_odd = "#333333"
+  home_section_even = "#000000"
