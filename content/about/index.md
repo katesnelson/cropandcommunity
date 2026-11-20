@@ -63,10 +63,22 @@ sections:
 
         We are planning to extend this work into rural communities in **Missouri**. Details on the
         Missouri regions will be shared here as that phase of the project develops.
+
     design:
       columns: '1'
       background:
-        color: ''
+        image:
+          filename: fields.jpg
+          filters:
+            brightness: 0.45
+          parallax: false
+          position: center
+          size: cover
+        text_color_light: true
+      spacing:
+        padding: ['70px', '0', '70px', '0']
+
+
 
   - block: markdown
     content:
@@ -91,24 +103,10 @@ sections:
         be used, and contributors decide how their words, names, and communities are represented. You
         can read more on the [Participate](../participate/) page.
 
-        <br>
-        <br>
-        <br>
-        <br>
-
-    design:
+      design:
       columns: '1'
-      background:
-        image:
-          filename: fields.jpg
-          filters:
-            brightness: 0.45
-          parallax: false
-          position: center
-          size: cover
-        text_color_light: true
-      spacing:
-        padding: ['70px', '0', '70px', '0']
+
+
 
   - block: markdown
     content:
